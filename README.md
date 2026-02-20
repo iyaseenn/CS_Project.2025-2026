@@ -66,7 +66,7 @@ The goal is to perform data cleaning, aggregation, and analysis across multiple 
 ---
 
 ## 👤 Author
-Muhammad Yaseen and Millaniyage Thilina Lakshan Peiris
+Muhammad Yaseen,  Uzakbay Dias and Millaniyage Thilina Lakshan Peiris
 
 - **Program:** MS Data Science  
 - **Academic Year:** 2025–26
